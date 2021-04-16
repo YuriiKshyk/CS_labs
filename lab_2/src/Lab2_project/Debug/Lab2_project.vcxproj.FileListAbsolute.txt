@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\EDU\NULP\3kurs\KS\labs\Lab2\Lab2_project\Debug\Lab2_project.exe
+C:\Users\User\Desktop\EDU\NULP\3kurs\KS\labs\Lab2\Lab2_project\Debug\Lab2_project.pdb
+C:\Users\User\Desktop\EDU\NULP\3kurs\CS\labs\Lab2\Lab2_project\Debug\Lab2_project.exe
+C:\Users\User\Desktop\EDU\NULP\3kurs\CS\labs\Lab2\Lab2_project\Debug\Lab2_project.pdb
